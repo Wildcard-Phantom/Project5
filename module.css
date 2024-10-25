@@ -1,3 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS Document */ 
+body{background: url("Images/catpaw.jpg")}
 
+footer{background-color: rgba(180,176,176,1.00); height: 100px}
